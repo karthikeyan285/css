@@ -1,0 +1,43 @@
+/* #para1{
+    background-color: blueviolet;
+}
+.par11{
+    background-color: goldenrod;
+}
+div{
+    background-color: brown;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 30px;
+} */
+#outer-box{
+    background-color: brown;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-wrap:wrap;
+    gap: 10px;
+    justify-content: center;
+    align-content: center;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    
+}
+#box1{
+    background-color: blue;
+    
+}
+#box2{
+    background-color: rgb(11, 207, 60);
+    
+}
+#box3{
+    background-color: rgb(255, 0, 157);
+    
+}
+#box4{
+    background-color: rgb(184, 187, 14);
+    
+}
